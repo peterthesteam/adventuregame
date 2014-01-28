@@ -1,3 +1,3 @@
 adventuregame
 =============
-Test Adventure Game python
+Test Adventure Game in python
